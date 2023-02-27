@@ -35,12 +35,4 @@ let messageToUser = username + ", " + message + "!"
 // let name = "Danny";
 // let greeting = "Hi, my name is ";
 
-let welcomeEl = document.getElementById("welcome-el");
-let name1 = "Danny";
-let greeting = "Hi, my name is ";
-let myGreeting = greeting + name1;
-welcomeEl.innerText = myGreeting;
 
-
-console.log(myGreeting);
-welcomeEl.innerText = welcomeEl.innerText + "👋";
