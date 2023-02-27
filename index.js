@@ -34,7 +34,6 @@ let messageToUser = username + ", " + message + "!"
 // Log myGreeting to the console
 // let name = "Danny";
 // let greeting = "Hi, my name is ";
-// let myGreeting = greeting + name;
 
 let welcomeEl = document.getElementById("welcome-el");
 let name1 = "Danny";
